@@ -8,7 +8,7 @@ import { Carousel } from 'react-responsive-carousel';
 const carousel = () => {
     return (
         
-          <Carousel>
+          <Carousel className="">
                 <div>
                     <img src="https://i.ibb.co/dmZBK2M/carousel1.webp"/>
                     

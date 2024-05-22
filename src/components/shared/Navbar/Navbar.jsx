@@ -41,7 +41,7 @@ const Navbar = () => {
 
 
     return (
-        <div className="navbar  max-w-screen-xl mx-auto  bg-white  my-7 border  shadow-xl rounded-xl">
+        <div className="navbar   max-w-screen-xl mx-auto  bg-white  my-7 border  shadow-xl rounded-xl">
 
 
   <div className="navbar-start">
@@ -87,6 +87,11 @@ const Navbar = () => {
 
 
 </div>
+
+
+
+
+
     );
 };
 
