@@ -1,12 +1,30 @@
+import "react-responsive-carousel/lib/styles/carousel.min.css"; 
+import { Carousel } from 'react-responsive-carousel';
 
 
-const Carousel = () => {
+
+
+// import car from '../../../assets/images/'
+const carousel = () => {
     return (
-        <div>
-            <h1> this is carousel </h1>
+        
+          <Carousel>
+                <div>
+                    <img src="https://i.ibb.co/dmZBK2M/carousel1.webp"/>
+                    
+                </div>
+                <div>
+                    <img src= "https://i.ibb.co/SxdZRSf/carousel2.webp"/>
+                   
+                </div>
+                <div>
+                    <img src="https://i.ibb.co/QbxwC6j/carousel3.webp" />
+                    
+                </div>
+            </Carousel>
             
-        </div>
+        
     );
 };
 
-export default Carousel;
+export default carousel;

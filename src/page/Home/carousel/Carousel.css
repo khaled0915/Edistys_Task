@@ -1,0 +1,35 @@
+.embla {
+    overflow: hidden;
+  }
+  .embla__viewport {
+    overflow: hidden;
+    width: 100%;
+  }
+  .embla__container {
+    display: flex;
+    user-select: none;
+  }
+  .embla__slide {
+    position: relative;
+    min-width: 100%;
+    padding: 10px;
+  }
+
+  .embla__button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 0.5em 1em;
+    z-index: 10;
+  }
+  
+  .embla__button--prev {
+    left: 10px;
+  }
+  
+  .embla__button--next {
+    right: 10px;
+  }
