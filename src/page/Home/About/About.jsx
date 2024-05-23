@@ -20,10 +20,15 @@ GUIDANCE </h1>
 
 
 
- <div className="hero my-10 min-h-screen bg-white relative ">
+
+ {/* <img className=' mx-auto bottom-2 -top-5  absolute ' src={about1} alt="" /> */}
 
 
-{/* <img className='absolute -t left-0 w-full ' src={about1} alt="" /> */}
+
+ <div className="hero my-10 min-h-screen bg-white  ">
+
+
+
 
   <div className="hero-content p-5 flex-col-reverse lg:flex-row-reverse">
 
