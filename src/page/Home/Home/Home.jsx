@@ -1,3 +1,4 @@
+import About from "../About/About";
 import Carousel from "../carousel/carousel";
 
 const Home = () => {
@@ -6,6 +7,7 @@ const Home = () => {
 
 
         <Carousel></Carousel>
+        <About></About>
            
 
 
