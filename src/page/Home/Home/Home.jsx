@@ -1,5 +1,6 @@
 import About from "../About/About";
 import Card from "../Card/Card";
+import Video from "../Video/Video";
 import Carousel from "../carousel/carousel";
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
         <Carousel></Carousel>
         <About></About>
         <Card></Card>
+        <Video></Video>
            
 
 
