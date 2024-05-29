@@ -1,6 +1,7 @@
 import About from "../About/About";
 import Blog from "../Blog/Blog";
 import Card from "../Card/Card";
+import Destination from "../Destination/Destination";
 
 import Success from "../Success/Success";
 import Testimonials from "../Testimonials/Testimonials";
@@ -16,6 +17,7 @@ const Home = () => {
         <About></About>
         <Card></Card>
         <Video></Video>
+        <Destination></Destination>
         <Testimonials></Testimonials>
         <Success></Success>
         <Blog></Blog>

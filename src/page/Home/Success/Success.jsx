@@ -27,7 +27,7 @@ className="max-w-sm rounded-lg " />
         
         
        }}
-       className='text-[#341982] relative '>   SUCCESS   
+       className='text-[#5932C9] relative '>   SUCCESS   
 
          <img className='w-[210px] absolute -right-5  ' src={linePng} alt="" /> 
        

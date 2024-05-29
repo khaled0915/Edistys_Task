@@ -13,7 +13,7 @@ const About = () => {
            <h1 className="text-center font-semibold text-[50px]"> STEP INTO A GLOBAL EDUCATION ODYSSEY WITH <br />
 
 OUR EXPERTS  
- <span className="text-[#341982]  font-bold  "> STUDY ABROAD </span> 
+ <span className="text-[#5932C9]  font-bold  "> STUDY ABROAD </span> 
 GUIDANCE </h1>
 
  <img src={linePic} alt="" className='mx-auto  hidden lg:block' />
