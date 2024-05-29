@@ -8,6 +8,7 @@ import grid5 from '../../../assets/images/grid5.png'
 import grid6 from '../../../assets/images/grid6.png'
 import Abroad from '../Abroad/Abroad'
 import Step from '../Step/Step'
+import Tourism from '../Tourism/Tourism'
 
 const Services = () => {
     return (
@@ -74,6 +75,7 @@ const Services = () => {
                  <Abroad></Abroad>
 
                  <Step></Step>
+                 <Tourism></Tourism>
 
                  </div>
 
