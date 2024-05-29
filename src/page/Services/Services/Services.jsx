@@ -33,39 +33,9 @@ const Services = () => {
  
  
  
-                  {/* <div className='mt-10 grid grid-cols-12 '>
-                     <div className="row-span-1 col-span-8 w-full h-full translate-y-[50px] rounded-[8px] object-cover lg:col-span-4 lg:row-span-3 lg:rounded-lg">
- 
-                         <img src={grid1} alt="" />
- 
-                         </div>
- 
-                         <div className='col-span-4 row-span-1 w-full h-full translate-y-[50px] rounded-[8px] object-cover lg:col-span-5 lg:row-span-2 lg:rounded-lg '>
-                         <img src={grid2} alt="" />
-                         </div>
- 
-                         <div className='col-span-5 row-span-2 h-full w-full translate-y-[50px] rounded-[8px] object-cover lg:col-span-3 lg:row-span-2 lg:rounded-lg  '>
-                         <img src={grid3} alt="" />
-                         </div>
- 
-                         <div className='col-span-6 row-span-1 h-full w-full translate-y-[50px] rounded-[8px] object-cover lg:col-span-4 lg:row-span-2 lg:rounded-lg  '>
-                         <img src={grid4} alt="" />
-                         </div>
- 
-                        <div className='col-span-7 row-span-2 h-full w-full translate-y-[50px] rounded-[8px] object-cover lg:col-span-3 lg:row-span-3 lg:rounded-lg '>
-                        <img src={grid5} alt="" />
-                        </div>
+                 
  
  
-                         <div className='row-span-1 h-full w-full translate-y-[50px] rounded-[8px] object-cover lg:col-span-5 lg:row-span-3 lg:rounded-lg'>
-                         <img src={grid6} alt="" />
-                         </div>
-                         
-                     
-                  </div> */}
- 
- 
-                  <h2 className='mt-20 mb-20 text-center max-w-lg mx-auto text-[24px] font-medium  '> We offer a diverse range of services to cater to your aspirations. Whether you're planning to study abroad or embark on a memorable tourism adventure, we've got you covered. </h2>
 </div>
 
 
